@@ -6,7 +6,7 @@ Materiais de aula de banco de dados I
 | aanaclrass | Ana Clara Mariano da Silva | 11012 |
 | NevraBeta | Ana Clara Silva Oliveira | 11009 |
 | Arteoo21 | Arthur de Almeida Teodoro | 10920 |
-| <arthur nick> | Arthur Almeida Matias | 11018 |
+| Matias42-art | Arthur Almeida Matias | 11018 |
 | goncalvesz010 | Antonio Enzo Goncalves | 10959S |
 | BRW01 | Bruno Juan Alves Diaz | 10968 |
 | ChristopherRamos007 | Christopher Ramos | 10985 |

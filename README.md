@@ -1,6 +1,7 @@
 # BDI
 Materiais de aula de banco de dados I  
 
+aanaclrass - Ana clara mariano da silva - 11012  
 NevraBeta - Ana Clara Silva Oliveira - 11009  
 goncalvesz010 - Antonio Enzo Goncalves - 10959S  
 <arthur nick> - Arthur Almaida Matias - 11018  
